@@ -1,0 +1,28 @@
+09:13:32.654894> WebSocket connected! Start Partial @depth20 [Future] process...
+09:13:32.656894> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:13:32.657895> WebSocket connected! Start @depth [Future] process...
+09:13:32.666893> WebSocket connected! Start Partial @depth20 [SPOT] process...
+09:13:32.670896> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.00000000 USDT
+09:13:32.917290> WebSocket connected! Start Partial @depth20 [SPOT] process...
+09:13:33.471525> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:13:33.476515> WebSocket connected! Start @depth [Future] process...
+09:13:33.484517> WebSocket connected! Start Partial @depth20 [Future] process...
+09:13:33.998543> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 104.47795338 USDT
+09:17:45.223190> Try Open BuyLimit, Bid: 73069.70 Ask:  73069.80
+09:17:45.223190> Support: 73069.7 VolS:2.543 Resistence: 73077.1 VolR:1.148
+09:17:45.514778> [1Leg]: Buy OK btcusdt at 73069.7000;Gap=-17.54000000;Price=73067.6000;Slippage=-2.1;Execution=286.571 ms;
+09:17:45.515760> Elapsted Open BuyLimit 
+09:19:17.425137> Try Close ALL Buy Pos, Ask: 73053.70
+09:19:17.425137> Support: 73050 VolS:3.217 Resistence: 73053.7 VolR:12.351
+09:19:17.425137> Ask1: 73053.70 Vol:12.351 Bid1: 73053.60 Vol:0.083
+09:19:17.426135> Ask2: 72933.37000000 Vol:5.28707000 Bid2: 72933.36000000 Vol:0.04722000
+09:19:17.694158> [1Leg]: Sell OK btcusdt at 0.0000;Gap=120.24000000;Price=73053.7000;Slippage=73053.7;Execution=268.023 ms;
+09:19:17.695149> Shuxer! Close ALL Buy Pos by market
+09:19:48.003919> Try Open Sell Pos, deviationSell: -2.42000000 Ask: 73098.90
+09:19:48.004918> Support: 73098.8 VolS:2.454 Resistence: 73102.2 VolR:2.382
+09:19:49.075733> [1Leg]: Sell OK btcusdt at 73098.9000;Gap=-2.42000000;Price=73100.0000;Slippage=1.1;Execution=1070.815 ms;
+09:19:49.076724> Elapsted Open Sell (1Leg)
+09:20:43.636672> Try Open Sell Pos, deviationSell: 6.79000000 Ask: 73200.50
+09:20:43.637680> Support: 73200 VolS:52.645 Resistence: 73202 VolR:3.099
+09:20:43.972690> [1Leg]: Sell OK btcusdt at 73200.5000;Gap=6.79000000;Price=73200.5000;Slippage=0.0;Execution=335.010 ms;
+09:20:43.973690> Elapsted Open Sell (1Leg)

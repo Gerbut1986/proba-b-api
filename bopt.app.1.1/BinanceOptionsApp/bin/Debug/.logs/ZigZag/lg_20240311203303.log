@@ -1,0 +1,56 @@
+20:33:04.824347> WebSocket connected! Start Partial @depth20 [SPOT] process...
+20:33:04.824347> WebSocket connected! Start @depth [Future] process...
+20:33:04.827348> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:33:04.831350> WebSocket connected! Start Partial @depth20 [Future] process...
+20:33:05.073361> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.00000000 USDT
+20:33:05.163368> WebSocket connected! Start Partial @depth20 [SPOT] process...
+20:33:05.697206> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:33:05.733217> WebSocket connected! Start Partial @depth20 [Future] process...
+20:33:05.743215> WebSocket connected! Start @depth [Future] process...
+20:33:06.254253> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 51.95258622 USDT
+21:29:49.646924> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:29:49.684927> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:29:49.893940> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:29:49.988945> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:29:50.774990>  DevBUY (-): 148.38087500 avgGapBuy:69.22912500 
+21:29:54.649975> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:29:54.650966> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:29:54.686971> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:29:54.687968> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:29:54.902026> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:29:54.902979> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:29:55.001988> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:29:55.004984> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:29:55.737216> WebSocket connected! Start @depth [Future] process...
+21:29:55.744208> WebSocket connected! Start @depth [Future] process...
+21:29:55.955220> WebSocket connected! Start @depth [Future] process...
+21:29:56.049226> WebSocket connected! Start @depth [Future] process...
+21:34:59.333994>  DevBUY (-): 152.36087500 avgGapBuy:69.22912500 
+21:35:04.334109>  DevBUY (-): 164.83087500 avgGapBuy:69.22912500 
+21:35:31.337482>  DevBUY (-): 174.36087500 avgGapBuy:69.22912500 
+21:35:37.342726>  DevBUY (-): 183.26087500 avgGapBuy:69.22912500 
+21:35:42.334950>  DevBUY (-): 224.60087500 avgGapBuy:69.22912500 
+21:35:43.336245>  DevBUY (-): 233.65087500 avgGapBuy:69.22912500 
+21:36:27.340142>  DevBUY (-): 256.22087500 avgGapBuy:69.22912500 
+21:36:29.350383>  DevBUY (-): 264.36087500 avgGapBuy:69.22912500 
+21:36:30.341551>  DevBUY (-): 272.85087500 avgGapBuy:69.22912500 
+21:36:31.349367>  DevBUY (-): 282.36087500 avgGapBuy:69.22912500 
+21:36:32.347465>  DevBUY (-): 291.99087500 avgGapBuy:69.22912500 
+21:36:33.341853>  DevBUY (-): 296.36087500 avgGapBuy:69.22912500 
+21:36:41.343030>  DevBUY (-): 317.68087500 avgGapBuy:69.22912500 
+21:36:42.344085>  DevBUY (-): 321.36087500 avgGapBuy:69.22912500 
+21:36:43.343879>  DevBUY (-): 324.36087500 avgGapBuy:69.22912500 
+21:36:44.373812>  DevBUY (-): 352.37087500 avgGapBuy:69.22912500 
+21:36:45.363029>  DevBUY (-): 374.36087500 avgGapBuy:69.22912500 
+21:36:46.343593>  DevBUY (-): 381.61087500 avgGapBuy:69.22912500 
+21:37:36.359954>  DevBUY (-): 394.27087500 avgGapBuy:69.22912500 
+21:37:37.382452>  DevBUY (-): 413.79087500 avgGapBuy:69.22912500 
+21:37:39.414368>  DevBUY (-): 434.35087500 avgGapBuy:69.22912500 
+21:37:40.381422>  DevBUY (-): 484.37087500 avgGapBuy:69.22912500 
+21:37:41.348262>  DevBUY (-): 499.60087500 avgGapBuy:69.22912500 
+21:37:42.348319>  DevBUY (-): 503.18087500 avgGapBuy:69.22912500 
+21:37:43.527415>  DevBUY (-): 507.07087500 avgGapBuy:69.22912500 
+21:37:52.373151>  DevBUY (-): 514.36087500 avgGapBuy:69.22912500 
+21:37:53.348414>  DevBUY (-): 524.36087500 avgGapBuy:69.22912500 
+21:37:55.367203>  DevBUY (-): 546.27087500 avgGapBuy:69.22912500 
+21:37:56.358192>  DevBUY (-): 550.90087500 avgGapBuy:69.22912500 

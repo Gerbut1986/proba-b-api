@@ -1,0 +1,98 @@
+15:47:22.001468> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:47:22.002470> WebSocket connected! Start Partial @depth20 [SPOT] process...
+15:47:22.005469> WebSocket connected! Start @depth [Future] process...
+15:47:22.004469> WebSocket connected! Start Partial @depth20 [Future] process...
+15:47:22.311915> WebSocket connected! Start Partial @depth20 [SPOT] process...
+15:47:22.647923> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.00000000 USDT
+15:47:22.810957> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:47:22.810957> WebSocket connected! Start Partial @depth20 [Future] process...
+15:47:22.826931> WebSocket connected! Start @depth [Future] process...
+15:47:23.388981> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 100.40930117 USDT
+16:07:11.851766>  DevBUY (+): 221.22362500 avgGapBuy:70.88637500 
+16:07:12.425384>  DevBUY (-): 252.10362500 avgGapBuy:70.88637500 
+16:07:12.604395>  DevBUY (-): 267.50362500 avgGapBuy:70.88637500 
+16:09:18.185916>  DevSELL (+): -160.13500000 avgGapSell:132.82500000 
+16:09:21.229265>  DevSELL (+): -217.82500000 avgGapSell:132.82500000 
+16:09:22.602816>  DevSELL (-): -142.59500000 avgGapSell:132.82500000 
+16:09:24.255227>  DevSELL (+): -231.22500000 avgGapSell:132.82500000 
+16:09:26.763404>  DevSELL (+): -266.89500000 avgGapSell:132.82500000 
+16:09:30.441923>  DevSELL (-): -142.79500000 avgGapSell:132.82500000 
+16:09:53.568013>  DevSELL (+): -134.84500000 avgGapSell:132.82500000 
+16:11:09.881843>  DevSELL (+): -136.44500000 avgGapSell:132.82500000 
+16:11:42.224132>  DevSELL (+): -161.54500000 avgGapSell:132.82500000 
+16:13:45.097197>  DevSELL (+): -200.11500000 avgGapSell:132.82500000 
+16:41:16.843982>  DevSELL (+): -124.63037500 avgGapSell:61.39037500 
+16:41:16.910988>  DevSELL (+): -127.33037500 avgGapSell:61.39037500 
+16:41:16.912993>  DevSELL (+): -129.73037500 avgGapSell:61.39037500 
+16:41:30.088738> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+16:41:30.195745> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+16:41:35.094843> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:41:35.097824> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:41:35.208831> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:41:35.209830> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:41:36.144051> WebSocket connected! Start @depth [Future] process...
+16:41:36.260045> WebSocket connected! Start @depth [Future] process...
+16:47:36.256042> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:47:36.257042> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:47:37.304319> WebSocket connected! Start @depth [Future] process...
+16:47:37.656974> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:47:37.657323> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:47:38.690989> WebSocket connected! Start @depth [Future] process...
+16:52:16.420174> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+16:52:21.504474> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:52:21.505466> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:52:22.991551> WebSocket connected! Start @depth [Future] process...
+16:52:34.765539> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:52:34.765539> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:52:35.833204> WebSocket connected! Start @depth [Future] process...
+17:00:45.184900>  DevSELL (+): -191.70112500 avgGapSell:71.78112500 
+17:00:45.670927>  DevSELL (-): -157.28112500 avgGapSell:71.78112500 
+17:00:45.949943>  DevSELL (-): -158.67112500 avgGapSell:71.78112500 
+17:00:46.171999>  DevSELL (+): -265.97112500 avgGapSell:71.78112500 
+17:00:47.679073>  DevSELL (+): -216.87112500 avgGapSell:71.78112500 
+17:00:47.798099>  DevSELL (-): -152.60112500 avgGapSell:71.78112500 
+17:00:50.306071>  DevSELL (+): -136.23112500 avgGapSell:71.78112500 
+17:00:50.617089>  DevSELL (-): -201.88112500 avgGapSell:71.78112500 
+17:02:41.204978>  DevSELL (+): -139.77112500 avgGapSell:71.78112500 
+17:02:42.080026>  DevSELL (-): -289.82112500 avgGapSell:71.78112500 
+17:02:42.087027>  DevSELL (-): -309.46112500 avgGapSell:71.78112500 
+17:02:42.613057>  DevSELL (+): -221.81112500 avgGapSell:71.78112500 
+17:02:42.908074>  DevSELL (-): -332.65112500 avgGapSell:71.78112500 
+17:02:42.909075>  DevSELL (+): -299.95112500 avgGapSell:71.78112500 
+17:02:43.719121> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+17:02:48.189377> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:02:48.243380> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:02:48.721410> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:02:48.722408> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:02:49.789928> WebSocket connected! Start @depth [Future] process...
+17:02:53.183051> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:02:53.185042> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:02:53.191060> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:02:53.191060> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:02:53.629088> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:02:53.631070> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:02:54.408018> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:02:54.416464> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:02:54.659479> WebSocket connected! Start @depth [Future] process...
+17:07:14.515357>  DevSELL (-): -143.27112500 avgGapSell:71.78112500 
+17:08:17.398705> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+17:08:17.494711> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+17:08:22.413612> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:08:22.414599> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:08:22.505606> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:08:22.508604> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:08:22.783640> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:08:22.784621> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:08:23.376476> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:08:23.377465> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:08:23.479469> WebSocket connected! Start @depth [Future] process...
+17:08:23.563482> WebSocket connected! Start @depth [Future] process...
+17:08:23.831489> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:08:24.444534> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:18:22.691706> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+17:18:27.554253> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:18:27.558245> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:18:27.739260> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:18:27.740255> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:18:28.617082> WebSocket connected! Start @depth [Future] process...
+17:18:28.803048> WebSocket connected! Start @depth [Future] process...
